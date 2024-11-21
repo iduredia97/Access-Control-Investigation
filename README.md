@@ -7,7 +7,7 @@ You’re the first cybersecurity professional hired by a growing business. Recen
 
 To do this, you’ll need to do some accounting on the incident to better understand what happened. First, you will review the access log of the incident. Next, you will take notes that can help you identify a possible threat actor. Then, you will spot issues with the access controls that were exploited by the user. Finally, you will recommend mitigations that can improve the business' access controls and reduce the likelihood that this incident reoccurs.
 ## Notes, Issues, and Recommendations
-[Notes, Issues, and Recommendations](./resources/notes-issues-recommendations.pdf): Tabularized findings and recommendations from the investigation.
+[Access Control Investigation](https://github.com/iduredia97/Access-Control-Investigation/blob/main/Access%20Controls%20Investigation.pdf)
 ### Key Findings:
 - Multiple failed login attempts for critical systems.
 - Accounts with administrative privileges used irregularly.
