@@ -22,3 +22,10 @@ The following resources are included in this project for reference:
 1. [Event Log](./resources/Event-Log.png): Detailed logs of system access attempts.
 2. [Employee Directory](./resources/Employee-Directory.png): A comprehensive directory of employees and access levels.
 
+#### Event Log
+![Event Log](./event-log.png)
+
+#### Employee Directory
+![Employee Directory](./employee-directory.png)
+
+
